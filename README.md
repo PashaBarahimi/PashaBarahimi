@@ -1,8 +1,5 @@
-### Knock Knock
-
-### Who's there?
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PashaBarahimi&layout=compact&theme=dark&langs_count=10&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center"> ¯\_(ツ)_/¯ <br> <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PashaBarahimi&theme=dark&langs_count=12&layout=compact" alt="Top_Langs">
+  </a>
+</p>
